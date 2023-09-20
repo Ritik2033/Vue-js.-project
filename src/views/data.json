@@ -1,0 +1,2791 @@
+{
+    "codigo_postal": "",
+    "tipo": "SAVINGS",
+    "transaccion_fin": "22042022",
+    "sPromedio": "",
+    "avanceLimite": "",
+    "ms": "HistoricoTransacciones",
+    "saldo_disponsible": "",
+    "httpMessage": "",
+    "list_transaction": [
+      {
+        "transaccion": [
+          {
+            "descripcion": "PAGO DE ACCIONES",
+            "fecha": "20200807",
+            "numeroSerie": "1",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "105065.43",
+            "cantidad": "42607.96"
+          },
+          {
+            "descripcion": "PAGO IMPUESTO 0.15  DGII 2 TRANS POR $ 1,858.51 Del 31/07/2020 Al 06/08/2020",
+            "fecha": "20200807",
+            "numeroSerie": "2",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "105062.64",
+            "cantidad": "2.79"
+          },
+          {
+            "descripcion": "Pago via MB desde759994320  ER",
+            "fecha": "20200807",
+            "numeroSerie": "3",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "105950.64",
+            "cantidad": "888.00"
+          },
+          {
+            "descripcion": "ESSO ARROYO HONDO         D.N. 022114194873 080820 RET DE AH O BPD0616",
+            "fecha": "20200810",
+            "numeroSerie": "4",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "104150.64",
+            "cantidad": "1800.00"
+          },
+          {
+            "descripcion": "CREDITO NOMINA",
+            "fecha": "20200812",
+            "numeroSerie": "5",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "150850.64",
+            "cantidad": "46700.00"
+          },
+          {
+            "descripcion": "Transf. via MB733703441  ER",
+            "fecha": "20200813",
+            "numeroSerie": "6",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "150840.64",
+            "cantidad": "10.00"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9014  R",
+            "fecha": "20200817",
+            "numeroSerie": "7",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "130840.64",
+            "cantidad": "20000.00"
+          },
+          {
+            "descripcion": "ESSO ARROYO HONDO         D.N. 022815194951 150820 RET DE AH O BPD0616",
+            "fecha": "20200817",
+            "numeroSerie": "8",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "130040.64",
+            "cantidad": "800.00"
+          },
+          {
+            "descripcion": "ESSO ARROYO HONDO         D.N. 022815194952 150820 RET DE AH O BPD0616",
+            "fecha": "20200817",
+            "numeroSerie": "9",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "129440.64",
+            "cantidad": "600.00"
+          },
+          {
+            "descripcion": "Pago via MB a0776324907  ER",
+            "fecha": "20200817",
+            "numeroSerie": "10",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "128440.64",
+            "cantidad": "1000.00"
+          },
+          {
+            "descripcion": "Pago via MB TC************5363  R",
+            "fecha": "20200817",
+            "numeroSerie": "11",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "128323.64",
+            "cantidad": "117.00"
+          },
+          {
+            "descripcion": "Pgo Trnf a Tarj./Serv. C-Ahorr 79799014 87686 190820 Pago C/A ho IBANKEFTN",
+            "fecha": "20200819",
+            "numeroSerie": "12",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "105858.76",
+            "cantidad": "22464.88"
+          },
+          {
+            "descripcion": "PAGO IMPUESTO 0.15  DGII 4 TRANS POR $ 43,581.88 Del 14/08/2020 Al 20/08/2020",
+            "fecha": "20200821",
+            "numeroSerie": "13",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "105793.38",
+            "cantidad": "65.38"
+          },
+          {
+            "descripcion": "Pago via MB a0782814156  ER",
+            "fecha": "20200826",
+            "numeroSerie": "14",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "105792.38",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB desde758201552  ER",
+            "fecha": "20200826",
+            "numeroSerie": "15",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "105792.43",
+            "cantidad": ".05"
+          },
+          {
+            "descripcion": "Transf. via MB733703441  ER",
+            "fecha": "20200826",
+            "numeroSerie": "16",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "105791.43",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. via MB783321953  R",
+            "fecha": "20200826",
+            "numeroSerie": "17",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "105732.93",
+            "cantidad": "58.50"
+          },
+          {
+            "descripcion": "CREDITO NOMINA",
+            "fecha": "20200827",
+            "numeroSerie": "18",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "133083.14",
+            "cantidad": "27350.21"
+          },
+          {
+            "descripcion": "Pgo Trnf a Tarj./Serv. C-Ahorr 77525221 52764 290820 Pago C/A ho IBANKEFTN",
+            "fecha": "20200831",
+            "numeroSerie": "19",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "132983.14",
+            "cantidad": "100.00"
+          },
+          {
+            "descripcion": "Pago via MB TC************5363  R",
+            "fecha": "20200831",
+            "numeroSerie": "20",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "125742.01",
+            "cantidad": "7241.13"
+          },
+          {
+            "descripcion": "Pago via MB a 1825216  AINER",
+            "fecha": "20200831",
+            "numeroSerie": "21",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "73442.01",
+            "cantidad": "52300.00"
+          },
+          {
+            "descripcion": "COMPENSACION POR BALANCE *",
+            "fecha": "20200831",
+            "numeroSerie": "22",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "73495.79",
+            "cantidad": "53.78"
+          },
+          {
+            "descripcion": "RETENCION DGII",
+            "fecha": "20200831",
+            "numeroSerie": "23",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "73490.41",
+            "cantidad": "5.38"
+          },
+          {
+            "descripcion": "IB BENEF 08199530012  RD$                      .00",
+            "fecha": "20200903",
+            "numeroSerie": "24",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "48490.41",
+            "cantidad": "25000.00"
+          },
+          {
+            "descripcion": "OF. TORRE EMP. 27  I-c    D.N 024719272665 030920 RET DE AHO BPD0250",
+            "fecha": "20200903",
+            "numeroSerie": "25",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "47090.41",
+            "cantidad": "1400.00"
+          },
+          {
+            "descripcion": "PAGO IMPUESTO 0.15  DGII 3 TRANS POR $ 59,641.13 Del 28/08/2020 Al 03/09/2020",
+            "fecha": "20200904",
+            "numeroSerie": "26",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "47000.95",
+            "cantidad": "89.46"
+          },
+          {
+            "descripcion": "CARGO MENSUAL TD CLASICA INT.",
+            "fecha": "20200909",
+            "numeroSerie": "27",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "46940.95",
+            "cantidad": "60.00"
+          },
+          {
+            "descripcion": "CREDITO NOMINA",
+            "fecha": "20200911",
+            "numeroSerie": "28",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "93640.95",
+            "cantidad": "46700.00"
+          },
+          {
+            "descripcion": "Pago via MB desde759994320  ER",
+            "fecha": "20200916",
+            "numeroSerie": "29",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "98023.01",
+            "cantidad": "4382.06"
+          },
+          {
+            "descripcion": "PagoTC Via MB************2410  R",
+            "fecha": "20200918",
+            "numeroSerie": "30",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "96119.25",
+            "cantidad": "1903.76"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9014  R",
+            "fecha": "20200918",
+            "numeroSerie": "31",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "76014.61",
+            "cantidad": "20104.64"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9014  R",
+            "fecha": "20200923",
+            "numeroSerie": "32",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "76013.61",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9014  R",
+            "fecha": "20200923",
+            "numeroSerie": "33",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "76012.61",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9014  R",
+            "fecha": "20200923",
+            "numeroSerie": "34",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "76012.60",
+            "cantidad": ".01"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9014  R",
+            "fecha": "20200923",
+            "numeroSerie": "35",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "76012.59",
+            "cantidad": ".01"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9014  R",
+            "fecha": "20200923",
+            "numeroSerie": "36",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "76012.58",
+            "cantidad": ".01"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9014  R",
+            "fecha": "20200923",
+            "numeroSerie": "37",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "76012.57",
+            "cantidad": ".01"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9014  R",
+            "fecha": "20200923",
+            "numeroSerie": "38",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "76012.56",
+            "cantidad": ".01"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9014  R",
+            "fecha": "20200923",
+            "numeroSerie": "39",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "76012.55",
+            "cantidad": ".01"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9014  R",
+            "fecha": "20200923",
+            "numeroSerie": "40",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "76012.46",
+            "cantidad": ".09"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9014  R",
+            "fecha": "20200923",
+            "numeroSerie": "41",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "76012.36",
+            "cantidad": ".10"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9014  R",
+            "fecha": "20200923",
+            "numeroSerie": "42",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "76012.25",
+            "cantidad": ".11"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9014  R",
+            "fecha": "20200923",
+            "numeroSerie": "43",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "76012.13",
+            "cantidad": ".12"
+          },
+          {
+            "descripcion": "PAG   ALTICE 8173839   3001362",
+            "fecha": "20200923",
+            "numeroSerie": "44",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "74108.37",
+            "cantidad": "1903.76"
+          },
+          {
+            "descripcion": "Transf. via MB733703441  ER",
+            "fecha": "20200925",
+            "numeroSerie": "45",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "74107.37",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "AVANCE DE EFECTIVO VIA APP POP  AINER",
+            "fecha": "20200925",
+            "numeroSerie": "46",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "74207.37",
+            "cantidad": "100.00"
+          },
+          {
+            "descripcion": "Pago via MB a 0762908218  AINER",
+            "fecha": "20200925",
+            "numeroSerie": "47",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "71907.37",
+            "cantidad": "2300.00"
+          },
+          {
+            "descripcion": "Pgo Trnf a Tarj./Serv. C-Ahorr 79799014 82020 250920 Pago C/A ho IBANKEFTN",
+            "fecha": "20200925",
+            "numeroSerie": "48",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "71907.36",
+            "cantidad": ".01"
+          },
+          {
+            "descripcion": "Pgo Trnf a Tarj./Serv. C-Ahorr 79799014 82079 250920 Pago C/A ho IBANKEFTN",
+            "fecha": "20200925",
+            "numeroSerie": "49",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "71907.35",
+            "cantidad": ".01"
+          },
+          {
+            "descripcion": "Pgo Trnf a Tarj./Serv. C-Ahorr 79799014 82097 250920 Pago C/A ho IBANKEFTN",
+            "fecha": "20200925",
+            "numeroSerie": "50",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "71907.34",
+            "cantidad": ".01"
+          },
+          {
+            "descripcion": "Pgo Trnf a Tarj./Serv. C-Ahorr 79799014 82104 250920 Pago C/A ho IBANKEFTN",
+            "fecha": "20200925",
+            "numeroSerie": "51",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "71907.33",
+            "cantidad": ".01"
+          },
+          {
+            "descripcion": "CREDITO NOMINA",
+            "fecha": "20200925",
+            "numeroSerie": "52",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "99257.54",
+            "cantidad": "27350.21"
+          },
+          {
+            "descripcion": "PAGO IMPUESTO 0.15  DGII 3 TRANS POR $ 23,912.16 Del 18/09/2020 Al 24/09/2020",
+            "fecha": "20200925",
+            "numeroSerie": "53",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "99221.66",
+            "cantidad": "35.88"
+          },
+          {
+            "descripcion": "Pgo Trnf a Tarj./Serv. C-Ahorr 77525221 64292 290920 Pago C/A ho IBANKEFTN",
+            "fecha": "20200929",
+            "numeroSerie": "54",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "99121.66",
+            "cantidad": "100.00"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9014  R",
+            "fecha": "20200930",
+            "numeroSerie": "55",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "99111.66",
+            "cantidad": "10.00"
+          },
+          {
+            "descripcion": "COMPENSACION POR BALANCE *",
+            "fecha": "20200930",
+            "numeroSerie": "56",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "99150.77",
+            "cantidad": "39.11"
+          },
+          {
+            "descripcion": "RETENCION DGII",
+            "fecha": "20200930",
+            "numeroSerie": "57",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "99146.86",
+            "cantidad": "3.91"
+          },
+          {
+            "descripcion": "CARGO MENSUAL TD CLASICA INT.",
+            "fecha": "20201001",
+            "numeroSerie": "58",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "99086.86",
+            "cantidad": "60.00"
+          },
+          {
+            "descripcion": "Pago via MB TC************5363  R",
+            "fecha": "20201002",
+            "numeroSerie": "59",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "88405.34",
+            "cantidad": "10681.52"
+          },
+          {
+            "descripcion": "PAGO IMPUESTO 0.15  DGII 3 TRANS POR $ 2,410.00 Del 25/09/2020 Al 01/10/2020",
+            "fecha": "20201002",
+            "numeroSerie": "60",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "88401.72",
+            "cantidad": "3.62"
+          },
+          {
+            "descripcion": "Pago via MB a0782814156  ER",
+            "fecha": "20201005",
+            "numeroSerie": "61",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "88401.71",
+            "cantidad": ".01"
+          },
+          {
+            "descripcion": "ESSO ARROYO HONDO         D.N. 027819194894 041020 RET DE AH O BPD0616",
+            "fecha": "20201005",
+            "numeroSerie": "62",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "87601.71",
+            "cantidad": "800.00"
+          },
+          {
+            "descripcion": "IB BENEF ************3808  RD$                      .00",
+            "fecha": "20201005",
+            "numeroSerie": "63",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "79402.79",
+            "cantidad": "8198.92"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9014  R",
+            "fecha": "20201006",
+            "numeroSerie": "64",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "79302.79",
+            "cantidad": "100.00"
+          },
+          {
+            "descripcion": "ATM PRUEBA 1002           D.N. 028312278878 091020 RET DE AH O BPD1002",
+            "fecha": "20201009",
+            "numeroSerie": "65",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "77302.79",
+            "cantidad": "2000.00"
+          },
+          {
+            "descripcion": "Pago via MB desde759994320  ER",
+            "fecha": "20201009",
+            "numeroSerie": "66",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "77303.79",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "PAGO IMPUESTO 0.15  DGII 2 TRANS POR $ 10,781.52 Del 02/10/2020 Al 08/10/2020",
+            "fecha": "20201009",
+            "numeroSerie": "67",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "77287.62",
+            "cantidad": "16.17"
+          },
+          {
+            "descripcion": "CREDITO NOMINA",
+            "fecha": "20201012",
+            "numeroSerie": "68",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "123987.62",
+            "cantidad": "46700.00"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9014  R",
+            "fecha": "20201014",
+            "numeroSerie": "69",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "123977.62",
+            "cantidad": "10.00"
+          },
+          {
+            "descripcion": "ATM PRUEBA 1002           D.N. 029015278894 161020 RET DE AH O BPD1002",
+            "fecha": "20201016",
+            "numeroSerie": "70",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "123177.62",
+            "cantidad": "800.00"
+          },
+          {
+            "descripcion": "CREDITO NOMINA",
+            "fecha": "20201016",
+            "numeroSerie": "71",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "277297.61",
+            "cantidad": "154119.99"
+          },
+          {
+            "descripcion": "Transf. INTERNET a 733703441",
+            "fecha": "20201016",
+            "numeroSerie": "72",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "77297.61",
+            "cantidad": "200000.00"
+          },
+          {
+            "descripcion": "PAGO IMPUESTO 0.15  DGII 1 TRANS POR $ 10.00 Del 09/10/2020 Al 15/10/2020",
+            "fecha": "20201016",
+            "numeroSerie": "73",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "77297.59",
+            "cantidad": ".02"
+          },
+          {
+            "descripcion": "Pago via MB desde818646168  ER",
+            "fecha": "20201016",
+            "numeroSerie": "74",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "77297.60",
+            "cantidad": ".01"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9014  R",
+            "fecha": "20201023",
+            "numeroSerie": "75",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "57415.34",
+            "cantidad": "19882.26"
+          },
+          {
+            "descripcion": "Pago via MB a 0759994320  AINER",
+            "fecha": "20201023",
+            "numeroSerie": "76",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "55915.34",
+            "cantidad": "1500.00"
+          },
+          {
+            "descripcion": "Pago via MB desde818646168  ER",
+            "fecha": "20201023",
+            "numeroSerie": "77",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "55915.35",
+            "cantidad": ".01"
+          },
+          {
+            "descripcion": "CNP NAC LOPE DE VEGA -B   Sto Dgo 030115292132 271020 RET DE AHO BPD0815",
+            "fecha": "20201027",
+            "numeroSerie": "78",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "55515.35",
+            "cantidad": "400.00"
+          },
+          {
+            "descripcion": "CNP NAC LOPE DE VEGA -A   Sant o Domingo 030115287601 271020 RET DE AHO BPD0457",
+            "fecha": "20201027",
+            "numeroSerie": "79",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "54715.35",
+            "cantidad": "800.00"
+          },
+          {
+            "descripcion": "CREDITO NOMINA",
+            "fecha": "20201027",
+            "numeroSerie": "80",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "82065.56",
+            "cantidad": "27350.21"
+          },
+          {
+            "descripcion": "Pgo Trnf a Tarj./Serv. C-Ahorr 77525221 98028 291020 Pago C/A ho IBANKEFTN",
+            "fecha": "20201029",
+            "numeroSerie": "81",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "81965.56",
+            "cantidad": "100.00"
+          },
+          {
+            "descripcion": "Pago ACH MB a 08199530012  R",
+            "fecha": "20201030",
+            "numeroSerie": "82",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "71965.56",
+            "cantidad": "10000.00"
+          },
+          {
+            "descripcion": "PAGO IMPUESTO 0.15  DGII 3 TRANS POR $ 21,482.26 Del 23/10/2020 Al 29/10/2020",
+            "fecha": "20201030",
+            "numeroSerie": "83",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "71933.34",
+            "cantidad": "32.22"
+          },
+          {
+            "descripcion": "NOTA DE CREDITO CTA AHORRO CR POR PAGO NO APLICADO .",
+            "fecha": "20201102",
+            "numeroSerie": "84",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "72033.34",
+            "cantidad": "100.00"
+          },
+          {
+            "descripcion": "COMPENSACION POR BALANCE *",
+            "fecha": "20201030",
+            "numeroSerie": "85",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "72081.48",
+            "cantidad": "48.14"
+          },
+          {
+            "descripcion": "RETENCION DGII",
+            "fecha": "20201030",
+            "numeroSerie": "86",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "72076.67",
+            "cantidad": "4.81"
+          },
+          {
+            "descripcion": "IB TC ************5363  RD$                      .00",
+            "fecha": "20201102",
+            "numeroSerie": "87",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "67271.48",
+            "cantidad": "4805.19"
+          },
+          {
+            "descripcion": "Pago via MB desde759994320  ER",
+            "fecha": "20201102",
+            "numeroSerie": "88",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "76211.48",
+            "cantidad": "8940.00"
+          },
+          {
+            "descripcion": "CARGO MENSUAL TD CLASICA INT.",
+            "fecha": "20201103",
+            "numeroSerie": "89",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "76151.48",
+            "cantidad": "60.00"
+          },
+          {
+            "descripcion": "Pago via MB desde818646168  ER",
+            "fecha": "20201104",
+            "numeroSerie": "90",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "76151.49",
+            "cantidad": ".01"
+          },
+          {
+            "descripcion": "IB BENEF ************3808  RD$                      .00",
+            "fecha": "20201106",
+            "numeroSerie": "91",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "47007.57",
+            "cantidad": "29143.92"
+          },
+          {
+            "descripcion": "PAGO IMPUESTO 0.15  DGII 1 TRANS POR $ 4,805.19 Del 30/10/2020 Al 05/11/2020",
+            "fecha": "20201106",
+            "numeroSerie": "92",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "47000.36",
+            "cantidad": "7.21"
+          },
+          {
+            "descripcion": "ESSO ARROYO HONDO         D.N. 031313194835 081120 RET DE AH O BPD0616",
+            "fecha": "20201110",
+            "numeroSerie": "93",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "46200.36",
+            "cantidad": "800.00"
+          },
+          {
+            "descripcion": "ESSO ARROYO HONDO         D.N. 031313194836 081120 RET DE AH O BPD0616",
+            "fecha": "20201110",
+            "numeroSerie": "94",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "45400.36",
+            "cantidad": "800.00"
+          },
+          {
+            "descripcion": "ESSO ARROYO HONDO         D.N. 031313194837 081120 RET DE AH O BPD0616",
+            "fecha": "20201110",
+            "numeroSerie": "95",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "44800.36",
+            "cantidad": "600.00"
+          },
+          {
+            "descripcion": "OF. LAS TERRENAS -AUTO    TERR ENAS 031517172414 101120 RET D E AHO BPD0768",
+            "fecha": "20201110",
+            "numeroSerie": "96",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "44000.36",
+            "cantidad": "800.00"
+          },
+          {
+            "descripcion": "CREDITO NOMINA",
+            "fecha": "20201112",
+            "numeroSerie": "97",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "90700.36",
+            "cantidad": "46700.00"
+          },
+          {
+            "descripcion": "Pago via MB a 0759994320  AINER",
+            "fecha": "20201116",
+            "numeroSerie": "98",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "90040.46",
+            "cantidad": "659.90"
+          },
+          {
+            "descripcion": "Transf. via MB733703441  ER",
+            "fecha": "20201117",
+            "numeroSerie": "99",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "90040.45",
+            "cantidad": ".01"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9014  R",
+            "fecha": "20201117",
+            "numeroSerie": "100",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "90039.45",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9014  R",
+            "fecha": "20201117",
+            "numeroSerie": "101",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "90038.45",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9014  R",
+            "fecha": "20201117",
+            "numeroSerie": "102",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "90037.45",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9014  R",
+            "fecha": "20201117",
+            "numeroSerie": "103",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "90036.45",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. via MB733703441  ER",
+            "fecha": "20201117",
+            "numeroSerie": "104",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "90036.44",
+            "cantidad": ".01"
+          },
+          {
+            "descripcion": "PAGO IMPUESTO 0.15  DGII 1 TRANS POR $ 659.90 Del 13/11/2020 Al 19/11/2020",
+            "fecha": "20201120",
+            "numeroSerie": "105",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "90035.45",
+            "cantidad": ".99"
+          },
+          {
+            "descripcion": "Pgo Trnf a Tarj./Serv. C-Ahorr 79799014 60957 211120 Pago C/A ho IBANKEFTN",
+            "fecha": "20201123",
+            "numeroSerie": "106",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "74307.27",
+            "cantidad": "15728.18"
+          },
+          {
+            "descripcion": "Pago via MB a0782814156  ER",
+            "fecha": "20201123",
+            "numeroSerie": "107",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "74307.26",
+            "cantidad": ".01"
+          },
+          {
+            "descripcion": "Pago via MB a 0759994320  AINER",
+            "fecha": "20201126",
+            "numeroSerie": "108",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "72247.56",
+            "cantidad": "2059.70"
+          },
+          {
+            "descripcion": "Desde INTERNET 761792928",
+            "fecha": "20201126",
+            "numeroSerie": "109",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "72248.56",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB desde761792928  ER",
+            "fecha": "20201126",
+            "numeroSerie": "110",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "72249.56",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB desde761792928  ER",
+            "fecha": "20201126",
+            "numeroSerie": "111",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "72250.56",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB desde761792928  ER",
+            "fecha": "20201126",
+            "numeroSerie": "112",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "72251.56",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB a TC ****5363  R",
+            "fecha": "20201127",
+            "numeroSerie": "113",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "72193.06",
+            "cantidad": "58.50"
+          },
+          {
+            "descripcion": "IB a 733703441",
+            "fecha": "20201127",
+            "numeroSerie": "114",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "71193.06",
+            "cantidad": "1000.00"
+          },
+          {
+            "descripcion": "CREDITO NOMINA",
+            "fecha": "20201127",
+            "numeroSerie": "115",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "98543.27",
+            "cantidad": "27350.21"
+          },
+          {
+            "descripcion": "PAGO IMPUESTO 0.15  DGII 2 TRANS POR $ 17,787.88 Del 20/11/2020 Al 26/11/2020",
+            "fecha": "20201127",
+            "numeroSerie": "116",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "98516.59",
+            "cantidad": "26.68"
+          },
+          {
+            "descripcion": "Pgo Trnf a Tarj./Serv. C-Ahorr 77525221 13757 291120 Pago C/A ho IBANKEFTN",
+            "fecha": "20201130",
+            "numeroSerie": "117",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "98416.59",
+            "cantidad": "100.00"
+          },
+          {
+            "descripcion": "COMPENSACION POR BALANCE *",
+            "fecha": "20201130",
+            "numeroSerie": "118",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "98453.25",
+            "cantidad": "36.66"
+          },
+          {
+            "descripcion": "RETENCION DGII",
+            "fecha": "20201130",
+            "numeroSerie": "119",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "98449.58",
+            "cantidad": "3.67"
+          },
+          {
+            "descripcion": "CARGO MENSUAL TD CLASICA INT.",
+            "fecha": "20201201",
+            "numeroSerie": "120",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "98389.58",
+            "cantidad": "60.00"
+          },
+          {
+            "descripcion": "NOTA DE CREDITO CTA AHORRO CR POR PAGO NO APLICADO .",
+            "fecha": "20201202",
+            "numeroSerie": "121",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "98489.58",
+            "cantidad": "100.00"
+          },
+          {
+            "descripcion": "Pago via MB a TC ****5363  R",
+            "fecha": "20201202",
+            "numeroSerie": "122",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "98430.49",
+            "cantidad": "59.09"
+          },
+          {
+            "descripcion": "CREDITO NOMINA",
+            "fecha": "20201204",
+            "numeroSerie": "123",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "145130.49",
+            "cantidad": "46700.00"
+          },
+          {
+            "descripcion": "Pago via MB a0782814156  ER",
+            "fecha": "20201204",
+            "numeroSerie": "124",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "136452.99",
+            "cantidad": "8677.50"
+          },
+          {
+            "descripcion": "IB BENEF 08199530012  RD$                      .00",
+            "fecha": "20201204",
+            "numeroSerie": "125",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "86452.99",
+            "cantidad": "50000.00"
+          },
+          {
+            "descripcion": "PAGO IMPUESTO 0.15  DGII 3 TRANS POR $ 217.59 Del 27/11/2020 Al 03/12/2020",
+            "fecha": "20201204",
+            "numeroSerie": "126",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "86452.66",
+            "cantidad": ".33"
+          },
+          {
+            "descripcion": "Supermercado Superfresh   D.N. 034019135811 051220 RET DE AH O BPD0204",
+            "fecha": "20201207",
+            "numeroSerie": "127",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "85652.66",
+            "cantidad": "800.00"
+          },
+          {
+            "descripcion": "MEDICALNET                D.N. 034513207663 101220 RET DE AH O BPD0165",
+            "fecha": "20201210",
+            "numeroSerie": "128",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "84852.66",
+            "cantidad": "800.00"
+          },
+          {
+            "descripcion": "CREDITO NOMINA",
+            "fecha": "20201211",
+            "numeroSerie": "129",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "178252.66",
+            "cantidad": "93400.00"
+          },
+          {
+            "descripcion": "PAGO IMPUESTO 0.15  DGII 1 TRANS POR $ 8,677.50 Del 04/12/2020 Al 10/12/2020",
+            "fecha": "20201211",
+            "numeroSerie": "130",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "178239.64",
+            "cantidad": "13.02"
+          },
+          {
+            "descripcion": "CREDITO NOMINA",
+            "fecha": "20201218",
+            "numeroSerie": "131",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "353438.16",
+            "cantidad": "175198.52"
+          },
+          {
+            "descripcion": "ESSO ARROYO HONDO         D.N. 035419194923 191220 RET DE AH O BPD0616",
+            "fecha": "20201221",
+            "numeroSerie": "132",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "352638.16",
+            "cantidad": "800.00"
+          },
+          {
+            "descripcion": "Pago via MB a 0761591593  AINER",
+            "fecha": "20201221",
+            "numeroSerie": "133",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "349938.16",
+            "cantidad": "2700.00"
+          },
+          {
+            "descripcion": "Pgo Trnf a Tarj./Serv. C-Ahorr 87842410 38470 211220 Pago C/A ho IBANKEFTN",
+            "fecha": "20201221",
+            "numeroSerie": "134",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "349078.16",
+            "cantidad": "860.00"
+          },
+          {
+            "descripcion": "Pgo Trnf a Tarj./Serv. C-Ahorr 79799014 38482 211220 Pago C/A ho IBANKEFTN",
+            "fecha": "20201221",
+            "numeroSerie": "135",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "297144.66",
+            "cantidad": "51933.50"
+          },
+          {
+            "descripcion": "CREDITO NOMINA",
+            "fecha": "20201223",
+            "numeroSerie": "136",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "324494.87",
+            "cantidad": "27350.21"
+          },
+          {
+            "descripcion": "Transf. via MB733703441  ER",
+            "fecha": "20201223",
+            "numeroSerie": "137",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "324493.87",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB desde818646168  ER",
+            "fecha": "20201223",
+            "numeroSerie": "138",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "324493.88",
+            "cantidad": ".01"
+          },
+          {
+            "descripcion": "OF. ARROYO HONDO -A       D.N. 036216210497 271220 RET DE AH O BPD0454",
+            "fecha": "20201228",
+            "numeroSerie": "139",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "323593.88",
+            "cantidad": "900.00"
+          },
+          {
+            "descripcion": "PAGO IMPUESTO 0.15  DGII 3 TRANS POR $ 55,493.50 Del 18/12/2020 Al 24/12/2020",
+            "fecha": "20201228",
+            "numeroSerie": "140",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "323510.64",
+            "cantidad": "83.24"
+          },
+          {
+            "descripcion": "Pago via MB desde758423164  ER",
+            "fecha": "20201229",
+            "numeroSerie": "141",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "323535.64",
+            "cantidad": "25.00"
+          },
+          {
+            "descripcion": "Pago via MB a 758201552  ER",
+            "fecha": "20201229",
+            "numeroSerie": "142",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "323435.64",
+            "cantidad": "100.00"
+          },
+          {
+            "descripcion": "Pago via MB a 758201552  ER",
+            "fecha": "20201229",
+            "numeroSerie": "143",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "323410.64",
+            "cantidad": "25.00"
+          },
+          {
+            "descripcion": "Pago via MB a 814337382  AINER",
+            "fecha": "20201229",
+            "numeroSerie": "144",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "323360.64",
+            "cantidad": "50.00"
+          },
+          {
+            "descripcion": "Pago via MB a 814337382  AINER",
+            "fecha": "20201229",
+            "numeroSerie": "145",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "323260.64",
+            "cantidad": "100.00"
+          },
+          {
+            "descripcion": "Pago via MB a 814337382  AINER",
+            "fecha": "20201229",
+            "numeroSerie": "146",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "323160.64",
+            "cantidad": "100.00"
+          },
+          {
+            "descripcion": "Pago via MB desde814337382  ER",
+            "fecha": "20201229",
+            "numeroSerie": "147",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "323161.64",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB a 808679054  ER",
+            "fecha": "20201229",
+            "numeroSerie": "148",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "323061.64",
+            "cantidad": "100.00"
+          },
+          {
+            "descripcion": "Pago via MB a 808679054  ER",
+            "fecha": "20201229",
+            "numeroSerie": "149",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322961.64",
+            "cantidad": "100.00"
+          },
+          {
+            "descripcion": "Pago ACH IB a 448412544756",
+            "fecha": "20201229",
+            "numeroSerie": "150",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322931.64",
+            "cantidad": "30.00"
+          },
+          {
+            "descripcion": "Pago via MB desde808679054  ER",
+            "fecha": "20201229",
+            "numeroSerie": "151",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "322944.14",
+            "cantidad": "12.50"
+          },
+          {
+            "descripcion": "Pago via MB desde758201552  ER",
+            "fecha": "20201229",
+            "numeroSerie": "152",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "322977.47",
+            "cantidad": "33.33"
+          },
+          {
+            "descripcion": "Transf. MB desde*****3441",
+            "fecha": "20201229",
+            "numeroSerie": "153",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "322977.48",
+            "cantidad": ".01"
+          },
+          {
+            "descripcion": "Transf. MB desde*****3441",
+            "fecha": "20201229",
+            "numeroSerie": "154",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "322977.49",
+            "cantidad": ".01"
+          },
+          {
+            "descripcion": "Transf. MB desde733703441  ER",
+            "fecha": "20201229",
+            "numeroSerie": "155",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "322977.50",
+            "cantidad": ".01"
+          },
+          {
+            "descripcion": "Pago via MB a *****3164",
+            "fecha": "20201229",
+            "numeroSerie": "156",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322976.50",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB a 758423164  ER",
+            "fecha": "20201229",
+            "numeroSerie": "157",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322975.50",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "PRUEBA QR 012 QR",
+            "fecha": "20201229",
+            "numeroSerie": "158",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322974.50",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "PRUEBA QR 012 QR",
+            "fecha": "20201229",
+            "numeroSerie": "159",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "322975.50",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "PRUEBA QR 012 QR",
+            "fecha": "20201229",
+            "numeroSerie": "160",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322970.50",
+            "cantidad": "5.00"
+          },
+          {
+            "descripcion": "PRUEBA QR 012 QR",
+            "fecha": "20201229",
+            "numeroSerie": "161",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "322975.50",
+            "cantidad": "5.00"
+          },
+          {
+            "descripcion": "Transf. MB desde733703441  ER",
+            "fecha": "20201229",
+            "numeroSerie": "162",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "322975.51",
+            "cantidad": ".01"
+          },
+          {
+            "descripcion": "Pago via MB a 801871690  AINER",
+            "fecha": "20201229",
+            "numeroSerie": "163",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322975.01",
+            "cantidad": ".50"
+          },
+          {
+            "descripcion": "Pago ACH IB a 448412544756",
+            "fecha": "20201229",
+            "numeroSerie": "164",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322945.01",
+            "cantidad": "30.00"
+          },
+          {
+            "descripcion": "Transf. MB desde733703441  ER",
+            "fecha": "20201229",
+            "numeroSerie": "165",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "322946.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. MB desde733703441  ER",
+            "fecha": "20201229",
+            "numeroSerie": "166",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "322947.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "IB CLARO 8095320427  RD$                      .00",
+            "fecha": "20201229",
+            "numeroSerie": "167",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322946.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "IB CLARO 8095320427  RD$                      .00",
+            "fecha": "20201229",
+            "numeroSerie": "168",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322945.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago ACH IB a 448412544756",
+            "fecha": "20201229",
+            "numeroSerie": "169",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322944.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago ACH IB a 448412544756",
+            "fecha": "20201229",
+            "numeroSerie": "170",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322943.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago ACH IB a 448412544756",
+            "fecha": "20201229",
+            "numeroSerie": "171",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322942.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago ACH IB a 448412544756",
+            "fecha": "20201229",
+            "numeroSerie": "172",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322941.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "IB CLARO 8095320427  RD$                      .00",
+            "fecha": "20201229",
+            "numeroSerie": "173",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322940.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago ACH IB a 448412544756",
+            "fecha": "20201229",
+            "numeroSerie": "174",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322939.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago ACH IB a 448412544756",
+            "fecha": "20201229",
+            "numeroSerie": "175",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322938.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "IB CLARO 8095320427  RD$                      .00",
+            "fecha": "20201229",
+            "numeroSerie": "176",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322937.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. MB desde733703441  ER",
+            "fecha": "20201229",
+            "numeroSerie": "177",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "322938.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago ACH IB a 448412544756",
+            "fecha": "20201229",
+            "numeroSerie": "178",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322937.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago ACH IB a 448412544756",
+            "fecha": "20201229",
+            "numeroSerie": "179",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322936.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB a******3379",
+            "fecha": "20201229",
+            "numeroSerie": "180",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322935.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB a******3379",
+            "fecha": "20201229",
+            "numeroSerie": "181",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322934.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB a******3379",
+            "fecha": "20201229",
+            "numeroSerie": "182",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322933.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB a******3379",
+            "fecha": "20201229",
+            "numeroSerie": "183",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322932.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. MB desde733703441  ER",
+            "fecha": "20201229",
+            "numeroSerie": "184",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "322933.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago ACH IB a 448412544756",
+            "fecha": "20201229",
+            "numeroSerie": "185",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322932.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago ACH IB a 448412544756",
+            "fecha": "20201229",
+            "numeroSerie": "186",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322931.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. MB desde733703441  ER",
+            "fecha": "20201229",
+            "numeroSerie": "187",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "322932.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago ACH IB a 28363790012",
+            "fecha": "20201229",
+            "numeroSerie": "188",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322931.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago ACH IB a 448412544756",
+            "fecha": "20201229",
+            "numeroSerie": "189",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322930.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago ACH IB a 448412544756",
+            "fecha": "20201229",
+            "numeroSerie": "190",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322929.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB a 0057144556  AINER",
+            "fecha": "20201229",
+            "numeroSerie": "191",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322928.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. MB desde733703441  ER",
+            "fecha": "20201229",
+            "numeroSerie": "192",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "322929.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. MB desde733703441  ER",
+            "fecha": "20201229",
+            "numeroSerie": "193",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "322930.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. MB desde733703441  ER",
+            "fecha": "20201229",
+            "numeroSerie": "194",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "322931.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB desde758423164  ER",
+            "fecha": "20201229",
+            "numeroSerie": "195",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "322932.01",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. MB desde733703441  ER",
+            "fecha": "20201229",
+            "numeroSerie": "196",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "322932.02",
+            "cantidad": ".01"
+          },
+          {
+            "descripcion": "Pago ACH IB a 0782956015",
+            "fecha": "20201229",
+            "numeroSerie": "197",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322832.02",
+            "cantidad": "100.00"
+          },
+          {
+            "descripcion": "Transf. MB desde*****3441",
+            "fecha": "20201229",
+            "numeroSerie": "198",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "322833.02",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "EXI IB CLARO 8092581579  RD$                      .00",
+            "fecha": "20201229",
+            "numeroSerie": "199",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322831.02",
+            "cantidad": "2.00"
+          },
+          {
+            "descripcion": "EXI IB CLARO 8092581579  RD$                      .00",
+            "fecha": "20201229",
+            "numeroSerie": "200",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322829.02",
+            "cantidad": "2.00"
+          },
+          {
+            "descripcion": "Pago via MB a782814156  ER",
+            "fecha": "20201229",
+            "numeroSerie": "201",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322804.02",
+            "cantidad": "25.00"
+          },
+          {
+            "descripcion": "Pago via MB a786284687  ER",
+            "fecha": "20201229",
+            "numeroSerie": "202",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322752.02",
+            "cantidad": "52.00"
+          },
+          {
+            "descripcion": "Pago via MB a786284687  ER",
+            "fecha": "20201229",
+            "numeroSerie": "203",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322750.02",
+            "cantidad": "2.00"
+          },
+          {
+            "descripcion": "Pago via MB a786284687  ER",
+            "fecha": "20201229",
+            "numeroSerie": "204",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322748.02",
+            "cantidad": "2.00"
+          },
+          {
+            "descripcion": "Transf. via MB733703441  ER",
+            "fecha": "20201229",
+            "numeroSerie": "205",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322736.02",
+            "cantidad": "12.00"
+          },
+          {
+            "descripcion": "Pago via MB a786284687  ER",
+            "fecha": "20201229",
+            "numeroSerie": "206",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322716.02",
+            "cantidad": "20.00"
+          },
+          {
+            "descripcion": "Pago via MB a786284687  ER",
+            "fecha": "20201229",
+            "numeroSerie": "207",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322706.02",
+            "cantidad": "10.00"
+          },
+          {
+            "descripcion": "Pago via MB a786284687  ER",
+            "fecha": "20201229",
+            "numeroSerie": "208",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "322676.02",
+            "cantidad": "30.00"
+          },
+          {
+            "descripcion": "Pago via MB-QR desde792109266  ER",
+            "fecha": "20201229",
+            "numeroSerie": "209",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "322677.02",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB-QR desde792109266  ER",
+            "fecha": "20201229",
+            "numeroSerie": "210",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "322678.02",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB-QR desde 792109266  ER",
+            "fecha": "20201229",
+            "numeroSerie": "211",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "322679.02",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB desde*****3300",
+            "fecha": "20201229",
+            "numeroSerie": "212",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "322682.02",
+            "cantidad": "3.00"
+          },
+          {
+            "descripcion": "Transf. MB desde*****3441",
+            "fecha": "20201229",
+            "numeroSerie": "213",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "322683.02",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB Prestamo797599362  RD$ .00",
+            "fecha": "20201229",
+            "numeroSerie": "214",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "317683.02",
+            "cantidad": "5000.00"
+          },
+          {
+            "descripcion": "Pago via MB Prestamo0007755234  RD$                      .00",
+            "fecha": "20201229",
+            "numeroSerie": "215",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "312683.02",
+            "cantidad": "5000.00"
+          },
+          {
+            "descripcion": "Pago via MB Prestamo0007755234  RD$                      .00",
+            "fecha": "20201229",
+            "numeroSerie": "216",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "307683.02",
+            "cantidad": "5000.00"
+          },
+          {
+            "descripcion": "Pago via MB Prestamo0007755234  RD$                      .00",
+            "fecha": "20201229",
+            "numeroSerie": "217",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "302683.02",
+            "cantidad": "5000.00"
+          },
+          {
+            "descripcion": "Pago via MB Prestamo0007755234  RD$                      .00",
+            "fecha": "20201229",
+            "numeroSerie": "218",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "297683.02",
+            "cantidad": "5000.00"
+          },
+          {
+            "descripcion": "Pago via MB Prestamo0007755234  RD$                      .00",
+            "fecha": "20201229",
+            "numeroSerie": "219",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "292683.02",
+            "cantidad": "5000.00"
+          },
+          {
+            "descripcion": "Pago via MB Prestamo0007755234  RD$                      .00",
+            "fecha": "20201229",
+            "numeroSerie": "220",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "287683.02",
+            "cantidad": "5000.00"
+          },
+          {
+            "descripcion": "Pago via MB Prestamo0007755234  RD$                      .00",
+            "fecha": "20201229",
+            "numeroSerie": "221",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "282683.02",
+            "cantidad": "5000.00"
+          },
+          {
+            "descripcion": "Pago via MB Prestamo0007755234  RD$                      .00",
+            "fecha": "20201229",
+            "numeroSerie": "222",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277683.02",
+            "cantidad": "5000.00"
+          },
+          {
+            "descripcion": "Transf. MB desde*****3441",
+            "fecha": "20201229",
+            "numeroSerie": "223",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "277683.03",
+            "cantidad": ".01"
+          },
+          {
+            "descripcion": "Pago via MB desde*****3300",
+            "fecha": "20201229",
+            "numeroSerie": "224",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "277686.03",
+            "cantidad": "3.00"
+          },
+          {
+            "descripcion": "Pago via MB-QR desde 792109266  ER",
+            "fecha": "20201229",
+            "numeroSerie": "225",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "277687.03",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "EXI IB DGA 123456789  RD$                      .00",
+            "fecha": "20201229",
+            "numeroSerie": "226",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277647.03",
+            "cantidad": "40.00"
+          },
+          {
+            "descripcion": "COMISION PAGO IMPUESTO X IB  RD$                      .00",
+            "fecha": "20201229",
+            "numeroSerie": "227",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277572.03",
+            "cantidad": "75.00"
+          },
+          {
+            "descripcion": "EXI IB DGII 12345  RD$                      .00",
+            "fecha": "20201229",
+            "numeroSerie": "228",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277532.03",
+            "cantidad": "40.00"
+          },
+          {
+            "descripcion": "COMISION PAGO IMPUESTO X IB  RD$                      .00",
+            "fecha": "20201229",
+            "numeroSerie": "229",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277457.03",
+            "cantidad": "75.00"
+          },
+          {
+            "descripcion": "EXI IB DGA 12345  RD$                      .00",
+            "fecha": "20201229",
+            "numeroSerie": "230",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277417.03",
+            "cantidad": "40.00"
+          },
+          {
+            "descripcion": "COMISION PAGO IMPUESTO X IB  RD$                      .00",
+            "fecha": "20201229",
+            "numeroSerie": "231",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277342.03",
+            "cantidad": "75.00"
+          },
+          {
+            "descripcion": "EXI IB DGII 1234  RD$                      .00",
+            "fecha": "20201229",
+            "numeroSerie": "232",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277302.03",
+            "cantidad": "40.00"
+          },
+          {
+            "descripcion": "COMISION PAGO IMPUESTO X IB  RD$                      .00",
+            "fecha": "20201229",
+            "numeroSerie": "233",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277227.03",
+            "cantidad": "75.00"
+          },
+          {
+            "descripcion": "Pago via MB-QR desde 792109266  ER",
+            "fecha": "20201229",
+            "numeroSerie": "234",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "277228.03",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB-QR desde 792109266  ER",
+            "fecha": "20201229",
+            "numeroSerie": "235",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "277229.03",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB-QR desde 792109266  ER",
+            "fecha": "20201229",
+            "numeroSerie": "236",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "277230.03",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB-QR desde 792109266  ER",
+            "fecha": "20201229",
+            "numeroSerie": "237",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "277231.03",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "1 QR",
+            "fecha": "20201229",
+            "numeroSerie": "238",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277229.80",
+            "cantidad": "1.23"
+          },
+          {
+            "descripcion": "Pago via MB-QR desde 792109266  ER",
+            "fecha": "20201229",
+            "numeroSerie": "239",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "277230.80",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB-QR desde 792109266  ER",
+            "fecha": "20201229",
+            "numeroSerie": "240",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "277231.80",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "1 QR",
+            "fecha": "20201229",
+            "numeroSerie": "241",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277230.57",
+            "cantidad": "1.23"
+          },
+          {
+            "descripcion": "Transf. MB desde*****3441",
+            "fecha": "20201229",
+            "numeroSerie": "242",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "277231.57",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. via MB783321953  ER",
+            "fecha": "20201229",
+            "numeroSerie": "243",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277131.57",
+            "cantidad": "100.00"
+          },
+          {
+            "descripcion": "Pago via MB a*****2491",
+            "fecha": "20201229",
+            "numeroSerie": "244",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277130.57",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB a*****2491",
+            "fecha": "20201229",
+            "numeroSerie": "245",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277129.57",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB-QR desde 792109266  ER",
+            "fecha": "20201229",
+            "numeroSerie": "246",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "277130.57",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB-QR desde 792109266  ER",
+            "fecha": "20201229",
+            "numeroSerie": "247",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "277131.57",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. MB desde*****3441",
+            "fecha": "20201229",
+            "numeroSerie": "248",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "277131.58",
+            "cantidad": ".01"
+          },
+          {
+            "descripcion": "Pago via MB-QR desde 792109266  ER",
+            "fecha": "20201229",
+            "numeroSerie": "249",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "277132.58",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB-QR desde 792109266  ER",
+            "fecha": "20201229",
+            "numeroSerie": "250",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "277133.58",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB-QR desde 792109266  ER",
+            "fecha": "20201229",
+            "numeroSerie": "251",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "277134.58",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "1 QR",
+            "fecha": "20201229",
+            "numeroSerie": "252",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277133.35",
+            "cantidad": "1.23"
+          },
+          {
+            "descripcion": "Transf. via MB a *****3441",
+            "fecha": "20201229",
+            "numeroSerie": "253",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277128.35",
+            "cantidad": "5.00"
+          },
+          {
+            "descripcion": "Transf. via MB a *****3441",
+            "fecha": "20201229",
+            "numeroSerie": "254",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277123.35",
+            "cantidad": "5.00"
+          },
+          {
+            "descripcion": "Transf. via MB a *****3441",
+            "fecha": "20201229",
+            "numeroSerie": "255",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277122.35",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. via MB a *****3441",
+            "fecha": "20201229",
+            "numeroSerie": "256",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277121.35",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. via MB a *****3441",
+            "fecha": "20201229",
+            "numeroSerie": "257",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277119.35",
+            "cantidad": "2.00"
+          },
+          {
+            "descripcion": "Transf. MB desde *****3441",
+            "fecha": "20201229",
+            "numeroSerie": "258",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "277120.35",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. MB desde *****3441",
+            "fecha": "20201229",
+            "numeroSerie": "259",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "277121.35",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. MB desde *****3441",
+            "fecha": "20201229",
+            "numeroSerie": "260",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "277122.35",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. via MB a *****3441",
+            "fecha": "20201229",
+            "numeroSerie": "261",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277117.35",
+            "cantidad": "5.00"
+          },
+          {
+            "descripcion": "Pago via MB-QR desde 792109266  ER",
+            "fecha": "20201229",
+            "numeroSerie": "262",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "277118.35",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB-QR desde 792109266  ER",
+            "fecha": "20201229",
+            "numeroSerie": "263",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "277119.35",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB a 804202729  AINER",
+            "fecha": "20201229",
+            "numeroSerie": "264",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277119.30",
+            "cantidad": ".05"
+          },
+          {
+            "descripcion": "Pago via MB a 804202729  AINER",
+            "fecha": "20201229",
+            "numeroSerie": "265",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277119.25",
+            "cantidad": ".05"
+          },
+          {
+            "descripcion": "Pago via MB a 804202729  AINER",
+            "fecha": "20201229",
+            "numeroSerie": "266",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277119.20",
+            "cantidad": ".05"
+          },
+          {
+            "descripcion": "Pago via MB a 804202729  AINER",
+            "fecha": "20201229",
+            "numeroSerie": "267",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277118.70",
+            "cantidad": ".50"
+          },
+          {
+            "descripcion": "IB a TC ************9355  SA",
+            "fecha": "20201229",
+            "numeroSerie": "268",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277117.70",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "IB a TC ************9355  KING",
+            "fecha": "20201229",
+            "numeroSerie": "269",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277116.70",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. MB desde *****3441",
+            "fecha": "20201229",
+            "numeroSerie": "270",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "277116.71",
+            "cantidad": ".01"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9355  KING",
+            "fecha": "20201229",
+            "numeroSerie": "271",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277115.71",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9355  KING",
+            "fecha": "20201229",
+            "numeroSerie": "272",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277114.71",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9355  KING",
+            "fecha": "20201229",
+            "numeroSerie": "273",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277113.71",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9355  KING",
+            "fecha": "20201229",
+            "numeroSerie": "274",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277112.71",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9355  KING",
+            "fecha": "20201229",
+            "numeroSerie": "275",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277111.71",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9355  KING",
+            "fecha": "20201229",
+            "numeroSerie": "276",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277110.71",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9355  KING",
+            "fecha": "20201229",
+            "numeroSerie": "277",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277109.71",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago via MB a 804202729  AINER",
+            "fecha": "20201229",
+            "numeroSerie": "278",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277109.70",
+            "cantidad": ".01"
+          },
+          {
+            "descripcion": "Pago via MB a *****2491",
+            "fecha": "20201229",
+            "numeroSerie": "279",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277109.60",
+            "cantidad": ".10"
+          },
+          {
+            "descripcion": "Transf. MB desde *****3441",
+            "fecha": "20201229",
+            "numeroSerie": "280",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "277109.70",
+            "cantidad": ".10"
+          },
+          {
+            "descripcion": "Pago via MB a *****3379",
+            "fecha": "20201229",
+            "numeroSerie": "281",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "277009.70",
+            "cantidad": "100.00"
+          },
+          {
+            "descripcion": "Pago via MB a *****3379",
+            "fecha": "20201229",
+            "numeroSerie": "282",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "276809.70",
+            "cantidad": "200.00"
+          },
+          {
+            "descripcion": "Transf. via MB a *****1953",
+            "fecha": "20201229",
+            "numeroSerie": "283",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "276619.54",
+            "cantidad": "190.16"
+          },
+          {
+            "descripcion": "Transf. via MB a *****1953",
+            "fecha": "20201229",
+            "numeroSerie": "284",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "276381.84",
+            "cantidad": "237.70"
+          },
+          {
+            "descripcion": "Transf. via MB a *****3441",
+            "fecha": "20201229",
+            "numeroSerie": "285",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "276380.84",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. via MB a *****3441",
+            "fecha": "20201229",
+            "numeroSerie": "286",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "276379.84",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. MB desde *****3441",
+            "fecha": "20201229",
+            "numeroSerie": "287",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "276379.94",
+            "cantidad": ".10"
+          },
+          {
+            "descripcion": "Transf. via MB a *****1953",
+            "fecha": "20201229",
+            "numeroSerie": "288",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "276332.40",
+            "cantidad": "47.54"
+          },
+          {
+            "descripcion": "Transf. via MB a *****1953",
+            "fecha": "20201229",
+            "numeroSerie": "289",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "276284.86",
+            "cantidad": "47.54"
+          },
+          {
+            "descripcion": "Transf. MB desde *****1953",
+            "fecha": "20201229",
+            "numeroSerie": "290",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "276335.04",
+            "cantidad": "50.18"
+          },
+          {
+            "descripcion": "Transf. via MB a *****1953",
+            "fecha": "20201229",
+            "numeroSerie": "291",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "276287.50",
+            "cantidad": "47.54"
+          },
+          {
+            "descripcion": "Transf. MB desde *****1953",
+            "fecha": "20201229",
+            "numeroSerie": "292",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "276337.68",
+            "cantidad": "50.18"
+          },
+          {
+            "descripcion": "Transf. MB desde *****3441",
+            "fecha": "20201229",
+            "numeroSerie": "293",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "276338.68",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. MB desde *****3441",
+            "fecha": "20201229",
+            "numeroSerie": "294",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "276339.68",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. MB desde *****3441",
+            "fecha": "20201229",
+            "numeroSerie": "295",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "276340.68",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. MB desde *****3441",
+            "fecha": "20201229",
+            "numeroSerie": "296",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "276341.68",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. MB desde *****3441",
+            "fecha": "20201229",
+            "numeroSerie": "297",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "276342.68",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. via MB a 733703441  ER",
+            "fecha": "20201229",
+            "numeroSerie": "298",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "276341.68",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. MB desde 733703441  ER",
+            "fecha": "20201229",
+            "numeroSerie": "299",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "276342.68",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. MB desde 733703441  ER",
+            "fecha": "20201229",
+            "numeroSerie": "300",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "276343.68",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. MB desde 733703441  ER",
+            "fecha": "20201229",
+            "numeroSerie": "301",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "276344.68",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. via MB a 733703441  ER",
+            "fecha": "20201229",
+            "numeroSerie": "302",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "276343.68",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. via MB a 783321953  R",
+            "fecha": "20201229",
+            "numeroSerie": "303",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "276296.14",
+            "cantidad": "47.54"
+          },
+          {
+            "descripcion": "Pago via MB a 799685086  ER",
+            "fecha": "20201229",
+            "numeroSerie": "304",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "276291.14",
+            "cantidad": "5.00"
+          },
+          {
+            "descripcion": "Pago via MB a 799685086  ER",
+            "fecha": "20201229",
+            "numeroSerie": "305",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "276286.14",
+            "cantidad": "5.00"
+          },
+          {
+            "descripcion": "Pago via MB a 799685086  ER",
+            "fecha": "20201229",
+            "numeroSerie": "306",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "276281.14",
+            "cantidad": "5.00"
+          },
+          {
+            "descripcion": "IB Desde *****3164 @DESC-LEFT@",
+            "fecha": "20201229",
+            "numeroSerie": "307",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "276531.14",
+            "cantidad": "250.00"
+          },
+          {
+            "descripcion": "IB Desde *****3164 @DESC-LEFT@",
+            "fecha": "20201229",
+            "numeroSerie": "308",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "276787.14",
+            "cantidad": "256.00"
+          },
+          {
+            "descripcion": "Pago via MB a 0001825216",
+            "fecha": "20201229",
+            "numeroSerie": "309",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "274787.14",
+            "cantidad": "2000.00"
+          },
+          {
+            "descripcion": "Pago via MB a 0001825216",
+            "fecha": "20201229",
+            "numeroSerie": "310",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "272787.14",
+            "cantidad": "2000.00"
+          },
+          {
+            "descripcion": "PagoTC Via MB************7400",
+            "fecha": "20201229",
+            "numeroSerie": "311",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "272778.15",
+            "cantidad": "8.99"
+          },
+          {
+            "descripcion": "PagoTC Via MB************7400",
+            "fecha": "20201229",
+            "numeroSerie": "312",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "272769.16",
+            "cantidad": "8.99"
+          },
+          {
+            "descripcion": "TRANSF AHORROS A L/M IBANK",
+            "fecha": "20201229",
+            "numeroSerie": "313",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "272760.17",
+            "cantidad": "8.99"
+          },
+          {
+            "descripcion": "Pago via MB a 0705704070",
+            "fecha": "20201229",
+            "numeroSerie": "314",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "272259.17",
+            "cantidad": "501.00"
+          },
+          {
+            "descripcion": "PagoTC Via MB************7400",
+            "fecha": "20201229",
+            "numeroSerie": "315",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "272250.18",
+            "cantidad": "8.99"
+          },
+          {
+            "descripcion": "PagoTC Via MB************7400",
+            "fecha": "20201229",
+            "numeroSerie": "316",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "272241.19",
+            "cantidad": "8.99"
+          },
+          {
+            "descripcion": "TRANSF AHORROS A L/M IBANK",
+            "fecha": "20201229",
+            "numeroSerie": "317",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "272232.20",
+            "cantidad": "8.99"
+          },
+          {
+            "descripcion": "PagoTC Via MB************7400",
+            "fecha": "20201229",
+            "numeroSerie": "318",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "272223.21",
+            "cantidad": "8.99"
+          },
+          {
+            "descripcion": "PagoTC Via MB************7400",
+            "fecha": "20201229",
+            "numeroSerie": "319",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "272214.22",
+            "cantidad": "8.99"
+          },
+          {
+            "descripcion": "PagoTC Via MB************7400",
+            "fecha": "20201229",
+            "numeroSerie": "320",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "272205.23",
+            "cantidad": "8.99"
+          },
+          {
+            "descripcion": "PagoTC Via MB************7400",
+            "fecha": "20201229",
+            "numeroSerie": "321",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "272196.24",
+            "cantidad": "8.99"
+          },
+          {
+            "descripcion": "TRANSF AHORROS A L/M IBANK",
+            "fecha": "20201229",
+            "numeroSerie": "322",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "272187.25",
+            "cantidad": "8.99"
+          },
+          {
+            "descripcion": "TRANSF AHORROS A L/M IBANK",
+            "fecha": "20201229",
+            "numeroSerie": "323",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "272178.26",
+            "cantidad": "8.99"
+          },
+          {
+            "descripcion": "PagoTC Via MB************7400",
+            "fecha": "20201229",
+            "numeroSerie": "324",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "272169.27",
+            "cantidad": "8.99"
+          },
+          {
+            "descripcion": "PagoTC Via MB************7400",
+            "fecha": "20201229",
+            "numeroSerie": "325",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "272160.28",
+            "cantidad": "8.99"
+          },
+          {
+            "descripcion": "TRANSF AHORROS A L/M IBANK",
+            "fecha": "20201229",
+            "numeroSerie": "326",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "272151.29",
+            "cantidad": "8.99"
+          },
+          {
+            "descripcion": "PagoTC Via MB************7400",
+            "fecha": "20201229",
+            "numeroSerie": "327",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "272142.30",
+            "cantidad": "8.99"
+          },
+          {
+            "descripcion": "PagoTC Via MB************7400",
+            "fecha": "20201229",
+            "numeroSerie": "328",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "272133.31",
+            "cantidad": "8.99"
+          },
+          {
+            "descripcion": "Pago via MB a733703441",
+            "fecha": "20201229",
+            "numeroSerie": "329",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "272132.31",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "PagoTC Via MB************7400",
+            "fecha": "20201229",
+            "numeroSerie": "330",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "272123.32",
+            "cantidad": "8.99"
+          },
+          {
+            "descripcion": "TRANSF AHORROS A L/M IBANK",
+            "fecha": "20201229",
+            "numeroSerie": "331",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "272114.33",
+            "cantidad": "8.99"
+          },
+          {
+            "descripcion": "PagoTC Via MB************7400",
+            "fecha": "20201229",
+            "numeroSerie": "332",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "272105.34",
+            "cantidad": "8.99"
+          },
+          {
+            "descripcion": "PagoTC Via MB************7400",
+            "fecha": "20201229",
+            "numeroSerie": "333",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "272096.35",
+            "cantidad": "8.99"
+          },
+          {
+            "descripcion": "PagoTC Via MB************7400",
+            "fecha": "20201229",
+            "numeroSerie": "334",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "272087.36",
+            "cantidad": "8.99"
+          },
+          {
+            "descripcion": "TRANSF AHORROS A L/M IBANK",
+            "fecha": "20201229",
+            "numeroSerie": "335",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "272078.37",
+            "cantidad": "8.99"
+          },
+          {
+            "descripcion": "Pgo Trnf a Tarj./Serv. C-Ahorr 77525221 82959 291220 Pago C/A ho IBANKEFTN",
+            "fecha": "20201229",
+            "numeroSerie": "336",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "271978.37",
+            "cantidad": "100.00"
+          },
+          {
+            "descripcion": "Pago via MB Prestamo797599362  RD$                      .00",
+            "fecha": "20201229",
+            "numeroSerie": "337",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "266978.37",
+            "cantidad": "5000.00"
+          },
+          {
+            "descripcion": "Pago via MB Prestamo797599362  RD$                      .00",
+            "fecha": "20201229",
+            "numeroSerie": "338",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "266968.37",
+            "cantidad": "10.00"
+          },
+          {
+            "descripcion": "Pago via MB Prestamo797599362  RD$                      .00",
+            "fecha": "20201229",
+            "numeroSerie": "339",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "266967.37",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. via MB733703441  ER",
+            "fecha": "20201229",
+            "numeroSerie": "340",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "266966.37",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Transf. MB desde733703441  ER",
+            "fecha": "20201229",
+            "numeroSerie": "341",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "266967.37",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "Pago ACH MB a 448412544756  R",
+            "fecha": "20201229",
+            "numeroSerie": "342",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "266937.37",
+            "cantidad": "30.00"
+          },
+          {
+            "descripcion": "Transf. MB desde733703441  ER",
+            "fecha": "20201229",
+            "numeroSerie": "343",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "266938.37",
+            "cantidad": "1.00"
+          },
+          {
+            "descripcion": "PagoTC Via MB************9014",
+            "fecha": "20201229",
+            "numeroSerie": "344",
+            "tipo": "DEBIT",
+            "saldoDisponsible": "266514.43",
+            "cantidad": "423.94"
+          },
+          {
+            "descripcion": "Pago via MB desde758423164  ER",
+            "fecha": "20201229",
+            "numeroSerie": "345",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "266564.43",
+            "cantidad": "50.00"
+          },
+          {
+            "descripcion": "Transf. MB desde733703441  ER",
+            "fecha": "20201229",
+            "numeroSerie": "346",
+            "tipo": "CREDIT",
+            "saldoDisponsible": "266565.43",
+            "cantidad": "1.00"
+          }
+        ]
+      }
+    ],
+    "saldo_actual": "",
+    "responseCode": "200",
+    "cliente_nombre": "",
+    "moreInformation": "",
+    "transaccion_comienzo": "23042019",
+    "httpCode": "",
+    "status": "ok"
+  }
